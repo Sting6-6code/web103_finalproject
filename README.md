@@ -2,7 +2,7 @@
 
 CodePath WEB103 Final Project
 
-Designed and developed by: Suraj, [Partner Name]
+Designed and developed by: Suraj, Siting
 
 🔗 Link to deployed app: [Coming soon]
 
